@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91347136/194753833-8e38bfbf-7b90-4e2a-a65e-38c57ce0a86e.png" width="900" alt="HealthTech Banner"/>
+</p>
 
-<!--
-**M-Omarjee/M-Omarjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm <b>Muhammed Omarjee</b></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚑 <b>Foundation Doctor (MBBS, King’s College London 2023)</b><br>
+  💡 <b>Healthtech & AI Enthusiast | Clinical Data Science Learner</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:omarjee811@gmail.com"><img src="https://img.shields.io/badge/Email-omarjee811%40gmail.com-blue?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/M-Omarjee"><img src="https://img.shields.io/badge/GitHub-M--Omarjee-black?logo=github"></a>
+</p>
+
+---
+
+## 🩺 Featured Projects
+
+| Project | Description |
+|----------|--------------|
+| 🫁 [**Chest X-ray Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia) | CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
+| 💬 [**Primary Care Triage AI**](https://github.com/M-Omarjee/triage-primary-care) | NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
+| ⚙️ **Sepsis NICE Guideline AI** *(coming soon)* | Clinical NLP project that identifies red-flag sepsis features using NICE pathway logic. |
+
+---
+
+## 🧾 Certifications
+
+| Certification | Issuer | Logo |
+|----------------|---------|------|
+| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/NIHR_Logo.svg" width="70"/> |
+| **ABPI Code of Practice Certification** | ABPI | <img src="https://upload.wikimedia.org/wikipedia/en/5/57/Association_of_the_British_Pharmaceutical_Industry_logo.svg" width="90"/> |
+| **Google AI Essentials** | Coursera × Google | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Coursera_Logo_Blue.svg" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
+| **AI in Healthcare (University of Colorado)** | Coursera | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Coursera_Logo_Blue.svg" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/University_of_Colorado_seal.svg" width="60"/> |
+
+---
+
+## 🧰 Technical Stack
+
+**Languages:** Python, SQL, Markdown  
+**Libraries:** scikit-learn, pandas, matplotlib, TensorFlow  
+**Domains:** Primary Care, Clinical Data, NLP, AI in Healthcare  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange?logo=scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-Data%20Analysis-green?logo=pandas">
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-ff6f00?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Healthcare-AI-lightgrey?logo=healthcare">
+</p>
+
+---
+
+## 🧠 Interests & Goals
+
+- Applying **AI to diagnostic triage** in **primary care and radiology**.  
+- Building **explainable NLP models** clinicians can trust.  
+- Exploring **digital health product design** and clinical data governance.  
+- Long-term: lead innovation that merges **clinical reasoning** with **data-driven insights**.
+
+---
+
+## 📈 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+This profile and its projects are for **educational and exploratory purposes** only and are **not clinical decision-making tools**.
+
+---
+
+<p align="center"><i>“Exploring the intersection of medicine, data, and innovation to build safer, smarter healthcare systems.”</i></p>
