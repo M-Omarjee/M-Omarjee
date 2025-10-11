@@ -31,7 +31,7 @@
 
 | Certification | Issuer | Logo |
 |----------------|---------|------|
-| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <img src="https://www.nihr.ac.uk/sites/corporate/files/styles/16_9/public/acquiadam-image/2024-09/Corp_Website_logo_fix.png" width="70"/> |
+| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <img src="https://whatworkswellbeing.org/wp-content/uploads/2022/07/NIHR-round-logo.jpg" width="70"/> |
 | **ABPI Code of Practice Certification** | ABPI | <img src="https://cdn-ukwest.onetrust.com/logos/823a932e-7ecd-43cd-85ed-f9eaee669aaa/018e181c-bb5a-7465-9d49-e89957fe2481/7d3d76ad-0da0-472b-bacf-3b9f44673f76/ABPI_logo_fullcolour_RGB.jpg" width="90"/> |
 | **Google AI Essentials** | Coursera × Google | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoD2HLGITrYdkkp1E9bOAWQcwlqtdDOKcYVawijPvd_aMAdHsEJWqAJqlCg1nSqARYA&usqp=CAU" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
 | **AI in Healthcare (University of Colorado)** | Coursera | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoD2HLGITrYdkkp1E9bOAWQcwlqtdDOKcYVawijPvd_aMAdHsEJWqAJqlCg1nSqARYA&usqp=CAU" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1200px-Seal_of_the_University_of_Colorado.svg.png" width="60"/> |
