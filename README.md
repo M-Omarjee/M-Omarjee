@@ -31,10 +31,10 @@
 
 | Certification | Issuer | Logo |
 |----------------|---------|------|
-| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <img src="https://www.nihr.ac.uk/sites/corporate/files/styles/16_9/public/acquiadam-image/2024-09/Corp_Website_logo_fix.png" width="70"/> |
-| **ABPI Code of Practice Certification** | ABPI | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Association_of_the_British_Pharmaceutical_Industry_logo.svg/256px-Association_of_the_British_Pharmaceutical_Industry_logo.svg.png" width="90"/> |
-| **Google AI Essentials** | Coursera × Google | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coursera_logo.svg/256px-Coursera_logo.svg.png" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
-| **AI in Healthcare (University of Colorado)** | Coursera | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coursera_logo.svg/256px-Coursera_logo.svg.png" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Seal_of_the_University_of_Colorado.svg" width="60"/> |
+| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <img src="images/nihr.png" width="70"/> |
+| **ABPI Code of Practice Certification** | ABPI | <img src="images/abpi.png" width="90"/> |
+| **Google AI Essentials** | Coursera × Google | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
+| **AI in Healthcare (University of Colorado)** | Coursera | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1200px-Seal_of_the_University_of_Colorado.svg.png" width="60"/> |
 
 ---
 
