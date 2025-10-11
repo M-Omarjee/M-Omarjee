@@ -21,7 +21,7 @@
 
 | Project | Description |
 |----------|--------------|
-| 🫁 [**Chest X-ray Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia) | CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
+| 🫁 [**Chest X-ray Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia-ai) | CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
 | 💬 [**Primary Care Triage AI**](https://github.com/M-Omarjee/triage-primary-care) | NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
 | ⚙️ **Sepsis NICE Guideline AI** *(coming soon)* | Clinical NLP project that identifies red-flag sepsis features using NICE pathway logic. |
 
