@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/M-Omarjee/M-Omarjee/blob/main/banner.PNG?raw=true" width="900" alt="HealthTech Banner"/>
+  <img src="images/banner.PNG" width="900" alt="HealthTech Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Muhammed Omarjee</b></h1>
