@@ -63,12 +63,13 @@
 
 ---
 
-## 📈 GitHub Snapshot
+### 📊 GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-</p>
+[![Muhammed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/M-Omarjee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/M-Omarjee)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Omarjee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
