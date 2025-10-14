@@ -24,7 +24,7 @@
 | 🫁 [**CXR Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia-ai) | CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
 | 💬 [**Primary Care Triage AI**](https://github.com/M-Omarjee/triage-primary-care) | NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
 | ⚙️ [**Sepsis Early Detection AI**](https://github.com/M-Omarjee/sepsis-ai) | Using NEWS2 values to create a ML model built in Python using Logistic Regression |
-| ⚙️ [**Ward Round Template with AI**](https://github.com/M-Omarjee/ward-round-template) | A responsive ward-round documentation template with a single-page frontend and a Flask API that generates concise, clinically-prioritised summaries from free-text notes. |
+| 📝 [**Ward Round Template with AI**](https://github.com/M-Omarjee/ward-round-template) | A responsive ward-round documentation template with a single-page frontend and a Flask API that generates concise, clinically-prioritised summaries from free-text notes. |
 
 ---
 
