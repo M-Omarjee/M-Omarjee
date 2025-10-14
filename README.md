@@ -23,7 +23,7 @@
 |----------|--------------|
 | 🫁 [**Chest X-ray Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia-ai) | CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
 | 💬 [**Primary Care Triage AI**](https://github.com/M-Omarjee/triage-primary-care) | NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
-| ⚙️ [**Sepsis NICE Guideline AI**](https://github.com/M-Omarjee/sepsis-ai) | Clinical NLP project that identifies red-flag sepsis features using NICE pathway logic. |
+| ⚙️ [**Sepsis NICE Guideline AI**](https://github.com/M-Omarjee/sepsis-ai) | Using NEWS2 values to create a ML model built in Python using Logistic Regression |
 
 ---
 
