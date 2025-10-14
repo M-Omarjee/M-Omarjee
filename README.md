@@ -67,14 +67,12 @@
 
 <div align="center">
 
-![Muhammed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Omarjee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=M-Omarjee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 </div>
-
 ---
 
 ## ⚠️ Disclaimer
