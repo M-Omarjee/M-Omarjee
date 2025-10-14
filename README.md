@@ -63,13 +63,17 @@
 
 ---
 
-### 📊 GitHub Snapshot
+## 📊 GitHub Snapshot
 
-[![Muhammed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/M-Omarjee)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/M-Omarjee)
+![Muhammed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Omarjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=M-Omarjee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Omarjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=M-Omarjee&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
 
 ---
 
