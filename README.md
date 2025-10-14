@@ -56,7 +56,7 @@
 
 ## 🧠 Interests & Goals
 
-- Applying **AI to diagnostic triage** in **primary care and radiology**.  
+- Applying **AI to improve patient outcomes and system efficiency** across **the UK healthcare system**.  
 - Building **explainable NLP models** clinicians can trust.  
 - Exploring **digital health product design** and clinical data governance.  
 - Long-term: lead innovation that merges **clinical reasoning** with **data-driven insights**.
