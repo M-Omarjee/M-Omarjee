@@ -30,15 +30,14 @@
 
 ## 🧾 Certifications
 
-| Certification | Issuer | Logo |
-|----------------|---------|------|
-| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | <div align="center"><img src="images/nihr.png" width="120"/></div> |
-| **ABPI Code of Practice Certification** | ABPI | <div align="center"><img src="images/abpi.png" width="90"/></div> |
-| **Google AI Essentials** | Coursera × Google | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
-| **AI in Healthcare (University of Colorado)** | Coursera | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1200px-Seal_of_the_University_of_Colorado.svg.png" width="60"/> |
+| Certification | Issuer | Focus / Key Area | Logo |
+| :--- | :--- | :--- | :--- |
+| **ICH-GCP (Good Clinical Practice)** | NIHR / Transcelerate | Principles of clinical trial conduct and ethics. | <div align="center"><img src="images/nihr.png" width="120"/></div> |
+| **ABPI Code of Practice Certification** | ABPI | Ethical promotion of prescription medicines in the UK. | <div align="center"><img src="images/abpi.png" width="90"/></div> |
+| **Google AI Essentials** | Coursera × Google | Core concepts in Generative AI and ML fundamentals. | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="70"/> |
+| **AI in Healthcare (University of Colorado)** | Coursera | Applying deep learning models to medical datasets. | <img src="images/coursera.webp" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1200px-Seal_of_the_University_of_Colorado.svg.png" width="60"/> |
 
 ---
-
 ## 🧰 Technical Stack
 
 **Languages:** Python, SQL, Markdown  
