@@ -26,7 +26,7 @@
 | ⚙️ [**Sepsis Early Detection AI**](https://github.com/M-Omarjee/sepsis-ai) | Using NEWS2 values to create a ML model built in Python using Logistic Regression |
 | 📝 [**Ward Round Template with AI**](https://github.com/M-Omarjee/ward-round-template) | A responsive ward-round documentation template with a single-page frontend and a Flask API that generates concise, clinically-prioritised summaries from free-text notes. |
 | 💊 [**De Novo Drug Design**](https://www.github.com/M-Omarjee/de-novo-drug-design) | Generative RNN trained to invent over 600 novel, chemically valid drug candidates. |
-| 📊 [**ProjectPulse Dashboard**](https://www.github.com/M-Omarjee/projectpulse-dashboard) | a FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
+| 📊 [**ProjectPulse Dashboard**](https://www.github.com/M-Omarjee/projectpulse-dashboard) | FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
 
 ---
 
