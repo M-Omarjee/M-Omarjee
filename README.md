@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:omarjee811@gmail.com"><img src="https://img.shields.io/badge/Email-omarjee811%40gmail.com-blue?logo=gmail&logoColor=white"></a>
+  <a href="mailto:omarjee811@gmail.com"><img src="https://img.shields.io/badge/Email-omarjee811%40gmail.com-red?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/M-Omarjee"><img src="https://img.shields.io/badge/GitHub-M--Omarjee-black?logo=github"></a>
   <a href="https://www.linkedin.com/in/muhammed-omarjee-881994365"><img src="https://img.shields.io/badge/LinkedIn-Muhammed Omarjee-blue?logo=linkedin&logoColor="white"></a>
 </p>
