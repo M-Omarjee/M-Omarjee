@@ -28,6 +28,7 @@
 | 📝 [**Ward Round Template with AI**](https://github.com/M-Omarjee/ward-round-template) | A responsive ward-round documentation template with a single-page frontend and a Flask API that generates concise, clinically-prioritised summaries from free-text notes. |
 | 💊 [**De Novo Drug Design**](https://www.github.com/M-Omarjee/de-novo-drug-design) | Generative RNN trained to invent over 600 novel, chemically valid drug candidates. |
 | 📊 [**ProjectPulse Dashboard**](https://www.github.com/M-Omarjee/projectpulse-dashboard) | FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
+| 🔍 [**AuditAI**](https://www.github.com/M-Omarjee/audit-ai) | a Streamlit-powered app that automates clinical audit analysis and generates polished, NHS-style compliance reports in seconds. |
 
 ---
 
