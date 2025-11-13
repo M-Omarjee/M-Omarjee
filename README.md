@@ -28,6 +28,7 @@
 | <div align="center">💊 [**De Novo Drug Design**](https://www.github.com/M-Omarjee/de-novo-drug-design) </div>| Generative RNN trained to invent over 600 novel, chemically valid drug candidates. |
 | <div align="center">📊 [**ProjectPulse Dashboard**](https://www.github.com/M-Omarjee/projectpulse-dashboard) </div>| FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
 | <div align="center">🔍 [**AuditAI**](https://www.github.com/M-Omarjee/audit-ai) </div>| a Streamlit-powered app that automates clinical audit analysis and generates polished, NHS-style compliance reports in seconds. |
+| <div align="center">🚨 [**ED Tracker**](https://www.github.com/M-Omarjee/ed-tracker) </div>| A fast, intuitive Emergency Department workflow tool that brings real-time patient tracking, documentation, and clinical oversight into one clean, modern dashboard. |
 
 ---
 
