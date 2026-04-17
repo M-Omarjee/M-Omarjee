@@ -3,7 +3,7 @@
   <img src="images/banner.PNG" width="900" alt="HealthTech Banner"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Muhammed Omarjee</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Muhammed</b></h1>
 
 <p align="center">
   🚑 <b>Foundation Doctor (MBBS, King’s College London 2023)</b><br>
