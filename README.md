@@ -1,8 +1,3 @@
-<!-- PROFILE HEADER -->
-<p align="center">
-  <img src="images/banner.PNG" width="900" alt="HealthTech Banner"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <b>Muhammed</b></h1>
 
 <p align="center">
