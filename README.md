@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Muhammed</b></h1>
 
 <p align="center">
-  🚑 <b>Foundation Doctor (MBBS, King’s College London 2023)</b><br>
+  🚑 <b>Resident Doctor (MBBS, King’s College London 2023)</b><br>
   💡 <b>Healthtech & AI Enthusiast | Clinical Data Science Learner</b>
 </p>
 
