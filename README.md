@@ -4,7 +4,6 @@
   🚑 <b>Resident Doctor</b><br>
   💡 <b>Healthtech & AI Enthusiast | Clinical Data Science Learner</b>
 </p>
----
 
 ## 🩺 Featured Projects
 
