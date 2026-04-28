@@ -1,15 +1,9 @@
 <h1 align="center">👋 Hi, I'm <b>Muhammed</b></h1>
 
 <p align="center">
-  🚑 <b>Resident Doctor (MBBS, King’s College London 2023)</b><br>
+  🚑 <b>Resident Doctor</b><br>
   💡 <b>Healthtech & AI Enthusiast | Clinical Data Science Learner</b>
 </p>
-
-<p align="center">
-  <a href="mailto:omarjee811@gmail.com"><img src="https://img.shields.io/badge/Email-omarjee811%40gmail.com-red?logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammed-omarjee-881994365"><img src="https://img.shields.io/badge/LinkedIn-Muhammed Omarjee-blue?logo=linkedin&logoColor="white"></a>
-</p>
-
 ---
 
 ## 🩺 Featured Projects
